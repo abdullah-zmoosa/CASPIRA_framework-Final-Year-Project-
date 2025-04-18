@@ -19,7 +19,10 @@ This is a proof-of-concept project, not a final product. The framework demonstra
 This repository serves as a placeholder for future updates, including code, architecture improvements, and integration enhancements. It is intended to become open-source, inviting researchers and clinicians to collaborate, implement, and advance this work.
 
 ## Contact
-For inquiries, contact Abdullah Moosa at [azm2000@hw.ac.uk](mailto:azm2000@hw.ac.uk).
+For inquiries, contact:
+- Abdullah Moosa at [azm2000@hw.ac.uk](mailto:azm2000@hw.ac.uk)
+- Dr. Senthil Muthukumaraswamy at [M.Senthilarumugam@hw.ac.uk](mailto:M.Senthilarumugam@hw.ac.uk)
+- Dr. Girish Balasubramanian at [G.Balasubramanian@hw.ac.uk](mailto:G.Balasubramanian@hw.ac.uk)
 
 ## Acknowledgements
 Special thanks to Dr. Senthil Muthukumaraswamy and Dr. Girish Balasubramanian for their guidance, and to all contributors and reviewers.
