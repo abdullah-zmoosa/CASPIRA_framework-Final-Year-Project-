@@ -1,6 +1,6 @@
 # CASPIRA Framework Repository
 
-This repository hosts the CASPIRA (Cardiovascular AI-driven System for Prediction, Insight, and Risk Analysis) framework, developed by Abdullah Moosa as part of a Bachelor of Engineering (Honours) dissertation at Heriot-Watt University Dubai, submitted on 18 April 2025.
+This repository hosts the CASPIRA (Cardiovascular AI-driven System for Prediction, Insight, and Risk Analysis) framework, developed by myself Abdullah Moosa as part of a Bachelor of Engineering (Honours) dissertation at Heriot-Watt University Dubai, submitted on 18 April 2025.
 
 ## Overview
 CASPIRA integrates clinical records and cardiac magnetic resonance images with large language models to support preventive cardiology. It includes an XGBoost model for tabular data, a ResNet50 CNN for imaging, and a fine-tuned Phi-4 mini LLM for report generation, achieving promising results (e.g., 98.83% imaging accuracy, 73.41% tabular accuracy, and 99.1% fused accuracy).
@@ -20,7 +20,7 @@ This repository serves as a placeholder for future updates, including code, arch
 
 ## Contact
 For inquiries, contact:
-- Abdullah Moosa at [azm2000@hw.ac.uk](mailto:azm2000@hw.ac.uk)
+- Me at [azm2000@hw.ac.uk](mailto:azm2000@hw.ac.uk) or (mailto:abdullah.zmoosa10@gmail.com)
 - Dr. Senthil Muthukumaraswamy at [M.Senthilarumugam@hw.ac.uk](mailto:M.Senthilarumugam@hw.ac.uk)
 - Dr. Girish Balasubramanian at [G.Balasubramanian@hw.ac.uk](mailto:G.Balasubramanian@hw.ac.uk)
 
